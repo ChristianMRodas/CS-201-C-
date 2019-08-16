@@ -1,2 +1,2 @@
-# CS-201-C-
+# CS-201-C++
 Assignment 2: Calender
