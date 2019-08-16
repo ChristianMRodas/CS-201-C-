@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\reshi\source\repos\cs 201 r projects\assignment 6\source.cpp(41): warning C4715: 'rhs_squares': not all control paths return a value
+  Assignment 6.vcxproj -> C:\Users\Reshi\source\repos\CS 201 R Projects\Assignment 6\Debug\Assignment 6.exe
